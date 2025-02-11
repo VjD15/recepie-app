@@ -49,6 +49,10 @@ This project is a Recipe App built using NextJS and Redux. It allows users to br
 
 4.  Open the application in your browser at `http://localhost:3000` (or the appropriate port for your setup).
 
+## You can see the app here also 
+
+https://recepie-app-one.vercel.app/
+
 ## Code Structure
 
 The project is organized into reusable components, following best practices for code structure, readability, and maintainability[8]. Key components include:
